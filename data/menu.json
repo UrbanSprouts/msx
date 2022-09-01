@@ -1,0 +1,19 @@
+{
+    "headline": "GitHub Pages Example",
+    "menu": [
+        {
+            "icon": "info",
+            "label": "Welcome",
+            "data": "https://UrbanSprouts.github.io/msx/data/welcome.json"
+        },
+        {
+            "type": "separator",
+            "label": "Base"
+        },
+        {
+            "icon": "movie",
+            "label": "Videos",
+            "data": "https://UrbanSprouts.github.io/msx/data/base/videos.json"
+        }
+    ]
+}
