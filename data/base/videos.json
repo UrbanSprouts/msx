@@ -11,7 +11,7 @@
         {
             "title": "Welcome",
             "playerLabel": "Welcome To Urban Sprouts",
-            "action": "video:https://urbansprouts.github.io/msx/data/media/Welcome.mp4"
+            "action": "video:plugin:https://urbansprouts.github.io/msx/data/media/Welcome.mp4"
         }
     ]
 }
